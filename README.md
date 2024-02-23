@@ -1,2 +1,2 @@
-# beecrowd.py
+# Beecrowd
 Exercicios Beecrowd em Python
